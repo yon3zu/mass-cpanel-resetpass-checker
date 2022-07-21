@@ -3,7 +3,7 @@
   **Running On Python 2.7.18 or Above**
   
 ```
-git clone https://github.com/yon3zu/cp-mass-pass-checker
+git clone https://github.com/yon3zu/mass-cpanel-resetpass-checker
 python toolz.py
 ```
 
